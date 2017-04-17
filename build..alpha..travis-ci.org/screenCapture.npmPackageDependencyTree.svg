@@ -1,0 +1,51 @@
+<svg height="766" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="766" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">8 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ cordova-uglify@0.2.8 </tspan>
+<tspan x="10" y="90">  ├─┬ clean-css@3.4.8 </tspan>
+<tspan x="10" y="106">  │ ├─┬ commander@2.8.1 </tspan>
+<tspan x="10" y="122">  │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="138">  │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="154">  │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="170">  ├─┬ ng-annotate@0.15.4 </tspan>
+<tspan x="10" y="186">  │ ├── acorn@0.11.0 </tspan>
+<tspan x="10" y="202">  │ ├── alter@0.2.0 </tspan>
+<tspan x="10" y="218">  │ ├── convert-source-map@0.4.1 </tspan>
+<tspan x="10" y="234">  │ ├─┬ optimist@0.6.1 </tspan>
+<tspan x="10" y="250">  │ │ ├── minimist@0.0.10 </tspan>
+<tspan x="10" y="266">  │ │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="282">  │ ├─┬ ordered-ast-traverse@1.1.1 </tspan>
+<tspan x="10" y="298">  │ │ └── ordered-esprima-props@1.1.0 </tspan>
+<tspan x="10" y="314">  │ ├── simple-fmt@0.1.0 </tspan>
+<tspan x="10" y="330">  │ ├── simple-is@0.2.0 </tspan>
+<tspan x="10" y="346">  │ ├── source-map@0.1.43 </tspan>
+<tspan x="10" y="362">  │ ├── stable@0.1.6 </tspan>
+<tspan x="10" y="378">  │ ├── stringmap@0.2.2 </tspan>
+<tspan x="10" y="394">  │ ├── stringset@0.2.1 </tspan>
+<tspan x="10" y="410">  │ └── tryor@0.1.2 </tspan>
+<tspan x="10" y="426">  ├─┬ shelljs@0.7.7 </tspan>
+<tspan x="10" y="442">  │ ├─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="458">  │ │ ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="474">  │ │ ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="490">  │ │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="506">  │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="522">  │ │ ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="538">  │ │ │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="554">  │ │ │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="570">  │ │ │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="586">  │ │ ├── once@1.4.0 </tspan>
+<tspan x="10" y="602">  │ │ └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="618">  │ ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="634">  │ └─┬ rechoir@0.6.2 </tspan>
+<tspan x="10" y="650">  │   └─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="666">  │     └── path-parse@1.0.5 </tspan>
+<tspan x="10" y="682">  └─┬ uglify-js@2.4.14 </tspan>
+<tspan x="10" y="698">    ├── async@0.2.10 </tspan>
+<tspan x="10" y="714">    ├── optimist@0.3.7 </tspan>
+<tspan x="10" y="730">    ├── source-map@0.1.43 </tspan>
+<tspan x="10" y="746">    └── uglify-to-browserify@1.0.2</tspan>
+</text>
+</svg>
